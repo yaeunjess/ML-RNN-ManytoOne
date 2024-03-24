@@ -1,2 +1,4 @@
 # RNN-ManytoOne
-Simple example of Many-to-One RNN. Predicting the next number about the current input. Reference from https://yjjo.tistory.com/32 
+Many-to-One RNN example.
+Predict the next number of the current input.
+Reference link : https://yjjo.tistory.com/32
